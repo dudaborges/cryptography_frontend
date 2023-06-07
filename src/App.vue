@@ -1,6 +1,7 @@
 <template>
   <Menu></Menu>
   <Encoder></Encoder>
+  <Footer></Footer>
 </template>
 
 <script>
