@@ -1,4 +1,4 @@
-# cryptography_frontend
+# Cryptography
 
 ## Project setup
 ```
